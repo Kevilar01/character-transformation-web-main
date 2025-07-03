@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Kevilar01.github.io/character-transformation-web-main",
+  "homepage": "https://kevilar01.github.io/character-transformation-web-main",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
